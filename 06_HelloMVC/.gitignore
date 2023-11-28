@@ -1,1 +1,3 @@
 /src/main/webapp/WEB-INF/classes/
+*.dbeaver
+*Scripts
